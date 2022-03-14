@@ -1,0 +1,3 @@
+[submodule "Plugins/nsRestartExplorer"]
+	path = Plugins/nsRestartExplorer
+	url = https://github.com/sherpya/nsRestartExplorer
