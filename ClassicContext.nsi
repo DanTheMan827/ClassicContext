@@ -60,6 +60,7 @@ Section "ClassicContext"
 
   ; Write the uninstall keys for Windows
   WriteRegStr HKCU "Software\Microsoft\Windows\CurrentVersion\Uninstall\DanTheMan827.ClassicContext" "DisplayName" "ClassicContext"
+  WriteRegStr HKCU "Software\Microsoft\Windows\CurrentVersion\Uninstall\DanTheMan827.ClassicContext" "DisplayVersion" "1.0.1"
   WriteRegStr HKCU "Software\Microsoft\Windows\CurrentVersion\Uninstall\DanTheMan827.ClassicContext" "Publisher" "DanTheMan827"
   WriteRegStr HKCU "Software\Microsoft\Windows\CurrentVersion\Uninstall\DanTheMan827.ClassicContext" "URLInfoAbout" "https://github.com/DanTheMan827/ClassicContext"
   WriteRegStr HKCU "Software\Microsoft\Windows\CurrentVersion\Uninstall\DanTheMan827.ClassicContext" "HelpLink" "https://github.com/DanTheMan827/ClassicContext"
